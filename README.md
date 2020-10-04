@@ -34,7 +34,6 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
   <img alt="bootstrap" width="26px" src="/assets/support/bootstrap.svg" />
   <img alt="css3" width="26px" src="assets/support/css3.svg" />
   <img alt="html5" width="26px" src="assets/support/html5.svg" />
-  <img alt="insomnia" width="26px" src="assets/support/insomnia.png" />
   <img alt="mysql" width="26px" src="assets/support/mysql.svg" />
   <img alt="oracle" width="26px" src="assets/support/oracle.svg" />
   <img alt="sql-developer" width="26px" src="assets/support/sql-developer.png" />
@@ -61,6 +60,7 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
   <img alt="terminal" width="26px" src="assets/tools/terminal.png" />
   <img alt="visual-studio-code" width="26px" src="assets/tools/visual-studio-code.png" />
   <img alt="wireshark-icon" width="26px" src="assets/tools/wireshark-icon.png" />
+  <img alt="insomnia" width="26px" src="assets/support/insomnia.png" />
 </p>
 
 
