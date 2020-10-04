@@ -16,7 +16,7 @@ Meus Contatos:
   Sou Natural de Petrópolis, região serrana do Rio de Janeiro. Apaixonado por Gadgets, tecnologia, códigos e música eletrônica. Adotando um estilo minimalista para viver, desenvolver e programar.
 Tentando encontrar a poesia da simplicidade com a transparência das interfaces.Utilizando a eficiência da componentização para unir esforços para juntos formarmos um único sistema solido.
 
-Com formação técnica pelo Centro Federal de Educação Tecnológica(CEFET-RJ) em telecomunicações com ênfase em desenvolvimento de aplicativos em linguagem Java Ginga-j e NCL-LUA e formação superior em sistemas de computação pela Universidade Federal Fluminense (UFF) aonde tive projetos com Python e o OpenCV.
+Com formação técnica pelo Centro Federal de Educação Tecnológica(CEFET-RJ) em telecomunicações com ênfase em desenvolvimento de aplicativos em linguagem Java Ginga-j e NCL-LUA e formação superior em sistemas de computação pela Universidade Federal Fluminense (UFF) aonde participei de projetos em Python utilizando a bilbioteca OpenCV.
 
 Um Web designer da época que tudo era mato com PHP com Macromedia Shockave e Flash pra deixar mais lento, animado e divertido.
 Editor de conteúdo multimídia com experiência em TVs comerciais e portais de educação.
