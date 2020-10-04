@@ -1,11 +1,12 @@
 
-
+Meus Contatos
 <p align="left">
   <a href="https://www.linkedin.com/in/felipecampinho/">
     <img alt="LinkedIn" width="22px" src="/assets/linkedin.svg" />
-  </a>&ensp;
+  </a>
   <a href="mailto:felipe.campinho@hotmail.com">
     <img alt="Email" width="22px" src="/assets/email.png" /> 
+  </a>
 </p>
 
 
