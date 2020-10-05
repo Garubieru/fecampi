@@ -36,7 +36,7 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
   </a>
 </p>
 
-<h3 align="center" >Linguagens que utilizo em meus projetos</h3>
+<h3 align="center" >Utilizo em meus projetos</h3>
 <p align="center">
    <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">
   <img alt="bootstrap" width="26px" src="/assets/support/bootstrap.svg" />
@@ -48,49 +48,49 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
   <img alt="mysql" width="26px" src="assets/support/mysql.svg" />
    </a><a href="https://www.oracle.com/br/database/technologies/">
   <img alt="oracle" width="26px" src="assets/support/oracle.svg" />
-   </a><a href="">
-  <img alt="sql-developer" width="26px" src="assets/support/pngwing.com.png" />
+   </a><a href="https://www.mongodb.com/">
+  <img alt="mongoDB" width="26px" src="assets/support/pngwing.com.png" />
    </a>
 </p>
 
 <h3 align="center" >Linguagens em que já desenvolvi</h3>
 <p align="center">
-   <a href="">
-  <img alt="sql-developer" width="26px" src="assets/used/c-sharp.svg" />
-   </a><a href="">
+   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+  <img alt="c-sharp" width="26px" src="assets/used/c-sharp.svg" />
+   </a><a href="https://docs.oracle.com/javase/8/docs/">
   <img alt="java" width="26px" src="assets/used/java.png" />
-   </a><a href="">
+   </a><a href="https://www.lua.org/manual/5.1/pt/manual.html">
   <img alt="lua" width="26px" src="assets/used/lua.png" />
-   </a><a href="">
+   </a><a href="https://www.ncl.ucar.edu/">
   <img alt="ncl" width="26px" src="assets/used/ncl.png" />
-   </a><a href="">
+   </a><a href="https://www.php.net/docs.php">
   <img alt="php" width="26px" src="assets/used/php.svg" />
-   </a><a href="">
+   </a><a href="https://docs.python.org/3/">
   <img alt="python" width="26px" src="assets/used/python.svg" />
    </a>
 </p>
 
 <h3 align="center" >Minhas Ferramentas </h3>
 <p align="center">
-   <a href="">
-  <img alt="audacity" width="26px" src="assets/tools/audacity.png" />
-   </a><a href="">
+   <a href="https://www.audacityteam.org/">
+  <img alt="" width="26px" src="assets/tools/audacity.png" />
+   </a><a href="https://www.blender.org/">
   <img alt="blender" width="26px" src="assets/tools/blender.png" />
-   </a><a href="">
+   </a><a href="https://www.figma.com/">
   <img alt="figma" width="26px" src="assets/tools/figma.png" />
-  </a><a href="">
+  </a><a href="https://www.gimp.org/">
   <img alt="gimp" width="26px" src="assets/tools/gimp.png" />
-   </a><a href="">
+   </a><a href="https://inkscape.org/pt-br/">
   <img alt="inkscape" width="26px" src="assets/tools/inkscape.png" />
-   </a><a href="">
+   </a><a href="https://kdenlive.org/en/">
   <img alt="kdnlive" width="26px" src="assets/tools/kdnlive.png" />
-   </a><a href="">
+   </a><a href="https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/">
   <img alt="terminal" width="26px" src="assets/tools/terminal.png" />
-   </a><a href="">
+   </a><a href="https://code.visualstudio.com/">
   <img alt="visual-studio-code" width="26px" src="assets/tools/visual-studio-code.png" />
-   </a><a href="">
+   </a><a href="https://www.wireshark.org/docs/">
   <img alt="wireshark-icon" width="26px" src="assets/tools/wireshark-icon.png" />
-   </a><a href="">
+   </a><a href="https://insomnia.rest/download/">
   <img alt="insomnia" width="26px" src="assets/support/insomnia.png" />
   </a>
 </p>
