@@ -27,44 +27,72 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
 <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
     <img alt="JavaScript" width="26px" src="/assets/stack/javascript.svg" />
-  </a>
-  <img alt="TypeScript" width="26px" src="/assets/stack/typescript.svg" />
-  <img alt="Node.js" width="26px" src="/assets/stack/node.svg" />
+  </a><a href="">
+    <img alt="TypeScript" width="26px" src="/assets/stack/typescript.svg" />
+   </a><a href="">
+    <img alt="Node.js" width="26px" src="/assets/stack/node.svg" />
+   </a><a href="">
   <img alt="React" width="26px" src="/assets/stack/reactjs.svg" />
+  </a>
 </p>
 
 <h3 align="center" >Linguagens que utilizo em meus projetos</h3>
 <p align="center">
+   <a href="">
   <img alt="bootstrap" width="26px" src="/assets/support/bootstrap.svg" />
+  </a><a href="">
   <img alt="css3" width="26px" src="assets/support/css3.svg" />
+  </a><a href="">
   <img alt="html5" width="26px" src="assets/support/html5.svg" />
+   </a><a href="">
   <img alt="mysql" width="26px" src="assets/support/mysql.svg" />
+   </a><a href="">
   <img alt="oracle" width="26px" src="assets/support/oracle.svg" />
+   </a><a href="">
   <img alt="sql-developer" width="26px" src="assets/support/sql-developer.png" />
+   </a>
 </p>
 
 <h3 align="center" >Linguagens em que já desenvolvi</h3>
 <p align="center">
+   <a href="">
   <img alt="sql-developer" width="26px" src="assets/used/c-sharp.svg" />
+   </a><a href="">
   <img alt="java" width="26px" src="assets/used/java.png" />
+   </a><a href="">
   <img alt="lua" width="26px" src="assets/used/lua.png" />
+   </a><a href="">
   <img alt="ncl" width="26px" src="assets/used/ncl.png" />
+   </a><a href="">
   <img alt="php" width="26px" src="assets/used/php.svg" />
+   </a><a href="">
   <img alt="python" width="26px" src="assets/used/python.svg" />
+   </a>
 </p>
 
 <h3 align="center" >Minhas Ferramentas </h3>
 <p align="center">
+   <a href="">
   <img alt="audacity" width="26px" src="assets/tools/audacity.png" />
+   </a><a href="">
   <img alt="blender" width="26px" src="assets/tools/blender.png" />
+   </a><a href="">
   <img alt="figma" width="26px" src="assets/tools/figma.png" />
+  </a><a href="">
   <img alt="gimp" width="26px" src="assets/tools/gimp.png" />
+   </a><a href="">
   <img alt="inkscape" width="26px" src="assets/tools/inkscape.png" />
+   </a><a href="">
   <img alt="kdnlive" width="26px" src="assets/tools/kdnlive.png" />
+   </a><a href="">
   <img alt="terminal" width="26px" src="assets/tools/terminal.png" />
+   </a><a href="">
   <img alt="visual-studio-code" width="26px" src="assets/tools/visual-studio-code.png" />
+   </a><a href="">
   <img alt="wireshark-icon" width="26px" src="assets/tools/wireshark-icon.png" />
+   </a><a href="">
   <img alt="insomnia" width="26px" src="assets/support/insomnia.png" />
+  </a>
 </p>
 
 
