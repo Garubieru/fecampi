@@ -25,7 +25,9 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
 
 <h3 align="center" >Minha Stack</h3>
 <p align="center">
-  <img alt="JavaScript" width="26px" src="/assets/stack/javascript.svg" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
+    <img alt="JavaScript" width="26px" src="/assets/stack/javascript.svg" />
+  </a>
   <img alt="TypeScript" width="26px" src="/assets/stack/typescript.svg" />
   <img alt="Node.js" width="26px" src="/assets/stack/node.svg" />
   <img alt="React" width="26px" src="/assets/stack/reactjs.svg" />
