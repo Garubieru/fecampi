@@ -49,7 +49,7 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
    </a><a href="https://www.oracle.com/br/database/technologies/">
   <img alt="oracle" width="26px" src="assets/support/oracle.svg" />
    </a><a href="">
-  <img alt="sql-developer" width="26px" src="assets/support/sql-developer.png" />
+  <img alt="sql-developer" width="26px" src="assets/support/pngwing.com.png" />
    </a>
 </p>
 
