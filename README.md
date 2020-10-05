@@ -27,26 +27,26 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
 <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
     <img alt="JavaScript" width="26px" src="/assets/stack/javascript.svg" />
-  </a><a href="">
+  </a><a href="https://www.typescriptlang.org/docs/">
     <img alt="TypeScript" width="26px" src="/assets/stack/typescript.svg" />
-   </a><a href="">
+   </a><a href="https://nodejs.org/api/">
     <img alt="Node.js" width="26px" src="/assets/stack/node.svg" />
-   </a><a href="">
+   </a><a href="https://pt-br.reactjs.org/docs/getting-started.html">
   <img alt="React" width="26px" src="/assets/stack/reactjs.svg" />
   </a>
 </p>
 
 <h3 align="center" >Linguagens que utilizo em meus projetos</h3>
 <p align="center">
-   <a href="">
+   <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">
   <img alt="bootstrap" width="26px" src="/assets/support/bootstrap.svg" />
-  </a><a href="">
+  </a><a href="https://www.w3schools.com/css/default.asp">
   <img alt="css3" width="26px" src="assets/support/css3.svg" />
-  </a><a href="">
+  </a><a href="https://www.w3schools.com/html/default.asp">
   <img alt="html5" width="26px" src="assets/support/html5.svg" />
-   </a><a href="">
+   </a><a href="https://www.mysql.com/">
   <img alt="mysql" width="26px" src="assets/support/mysql.svg" />
-   </a><a href="">
+   </a><a href="https://www.oracle.com/br/database/technologies/">
   <img alt="oracle" width="26px" src="assets/support/oracle.svg" />
    </a><a href="">
   <img alt="sql-developer" width="26px" src="assets/support/sql-developer.png" />
