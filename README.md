@@ -18,8 +18,7 @@ Meus Contatos:
 * Minimalism We must find a simple way to live: Thinking to myself, developing and programming..
 
 * Higher education in computer systems by Universidade Federal Fluminense (UFF)
-
-* Telecommunications technician with emphasis on developing interactive applications for Digital TV. Federal Center for Technological Education (CEFET-RJ)
+  Telecommunications technician with emphasis on developing interactive applications for Digital TV. Federal Center for Technological Education (CEFET-RJ)
 
 * Always helping companies and friends to deliver the best API to their customers.
 
