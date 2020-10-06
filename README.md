@@ -13,17 +13,22 @@ Meus Contatos:
   </a>
     E-mail
 <p>
-Natural de Petrópolis, região serrana do Rio de Janeiro. Apaixonado por Gadgets, tecnologia, códigos e música eletrônica. Adoto um estilo minimalista para viver, desenvolver e programar. Tento encontrar a poesia da simplicidade com a transparência das interfaces. Utilizo a eficiência da componentização para unir esforços, formando um único sistema solido.
+* I'm passionate about a lot of things: Gadgets, technology, codes and electronic music.
 
-Participei de projetos em Python, utilizando a bilbioteca OpenCV em minha formação superior em sistemas de computação pela Universidade Federal Fluminense (UFF) e aprendi sobre Java, Ginga-j e NCL-LUA na minha formação técnica pelo Centro Federal de Educação Tecnológica(CEFET-RJ) em telecomunicações com ênfase em desenvolvimento de aplicativos interativos para TV Digital.
+* Minimalism We must find a simple way to live: Thinking to myself, developing and programming..
 
-Um Web designer da época que tudo era mato com PHP, Macromedia Shockave e Flash pra deixar mais lento, animado e divertido e um Editor de conteúdo multimídia com experiência em TVs comerciais e portais de educação. Sempre ajudando empresas e colegas a entregarem a melhor API para seus clientes.
+* Higher education in computer systems by Universidade Federal Fluminense (UFF)
 
-Entusiasta de tudo que possa usar Javascript com aquela pitada de TypeScript e muito software livre.
-Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me juntar a você (crescendo && aprendendo). Bora?
+* Telecommunications technician with emphasis on developing interactive applications for Digital TV. Federal Center for Technological Education (CEFET-RJ)
+
+* Always helping companies and friends to deliver the best API to their customers.
+
+* Enthusiast of everything that can use Javascript with that hint of TypeScript and a lot of free software.
+
+* (growing and learning). Let's go!
 </p>
 
-<h3 align="center" >Minha Stack</h3>
+<h3 align="center" >*-Stack-*</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
     <img alt="JavaScript" width="26px" src="/assets/stack/javascript.svg" />
@@ -36,7 +41,7 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
   </a>
 </p>
 
-<h3 align="center" >Utilizo em meus projetos</h3>
+<h3 align="center" >*-Support-*</h3>
 <p align="center">
    <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">
   <img alt="bootstrap" width="26px" src="/assets/support/bootstrap.svg" />
@@ -53,7 +58,7 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
    </a>
 </p>
 
-<h3 align="center" >Linguagens em que já desenvolvi</h3>
+<h3 align="center" >*-Used-*</h3>
 <p align="center">
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
   <img alt="c-sharp" width="26px" src="assets/used/c-sharp.svg" />
@@ -70,7 +75,7 @@ Busco respirar novos ares, conhecer novos lugares, conhecer novas pessoas e me j
    </a>
 </p>
 
-<h3 align="center" >Minhas Ferramentas </h3>
+<h3 align="center" >Tools</h3>
 <p align="center">
    <a href="https://www.audacityteam.org/">
   <img alt="" width="26px" src="assets/tools/audacity.png" />
