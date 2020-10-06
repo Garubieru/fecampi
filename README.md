@@ -1,6 +1,6 @@
 # Let me introduce myself. My name is Felipe Campinho. 👋
 
-MMy contacts: 
+My contacts: 
 <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipecampinho/">
