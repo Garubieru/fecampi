@@ -1,4 +1,4 @@
-# First of all,let me introduce myself. My name is Felipe Campinho. 👋
+# First of all, let me introduce myself. My name is Felipe Campinho. 👋
 
 My contacts: 
 <br/>
