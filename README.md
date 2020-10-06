@@ -27,7 +27,7 @@ Meus Contatos:
 * (growing and learning). Let's go!
 </p>
 
-<h3 align="center" >*-Stack-*</h3>
+<h3 align="center" >Stack</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
     <img alt="JavaScript" width="26px" src="/assets/stack/javascript.svg" />
@@ -40,7 +40,7 @@ Meus Contatos:
   </a>
 </p>
 
-<h3 align="center" >*-Support-*</h3>
+<h3 align="center" >Support</h3>
 <p align="center">
    <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">
   <img alt="bootstrap" width="26px" src="/assets/support/bootstrap.svg" />
@@ -57,7 +57,7 @@ Meus Contatos:
    </a>
 </p>
 
-<h3 align="center" >*-Used-*</h3>
+<h3 align="center" >Used</h3>
 <p align="center">
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
   <img alt="c-sharp" width="26px" src="assets/used/c-sharp.svg" />
