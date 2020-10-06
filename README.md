@@ -13,7 +13,7 @@ Meus Contatos:
   </a>
     E-mail
 <p>
-<ul>Sou Brasilieiro, Natural de Petrópolis, região serrana do Rio de Janeiro. Apaixonado por Gadgets, tecnologia, códigos e música eletrônica. Adoto um estilo minimalista para viver, desenvolver e programar. Tento encontrar a poesia da simplicidade com a transparência das interfaces. Utilizo a eficiência da componentização para unir esforços, formando um único sistema solido.
+Natural de Petrópolis, região serrana do Rio de Janeiro. Apaixonado por Gadgets, tecnologia, códigos e música eletrônica. Adoto um estilo minimalista para viver, desenvolver e programar. Tento encontrar a poesia da simplicidade com a transparência das interfaces. Utilizo a eficiência da componentização para unir esforços, formando um único sistema solido.
 
 Participei de projetos em Python, utilizando a bilbioteca OpenCV em minha formação superior em sistemas de computação pela Universidade Federal Fluminense (UFF) e aprendi sobre Java, Ginga-j e NCL-LUA na minha formação técnica pelo Centro Federal de Educação Tecnológica(CEFET-RJ) em telecomunicações com ênfase em desenvolvimento de aplicativos interativos para TV Digital.
 
