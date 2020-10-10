@@ -99,14 +99,14 @@ First of all, let me introduce myself. My name is Felipe Campinho.
   <a href="https://github.com/fecampi">
     <img 
          align="center" 
-         height="165"
+         height="200"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecampi&layout=compact" 
      />
   </a>
   <a href="https://github.com/fecampi">
     <img 
          align="center" 
-         height="165"
+         height="200"
          src="https://github-readme-stats.vercel.app/api?username=fecampi&show_icons=true&include_all_commits=true" alt="fecampi github stats" />
   </a>
 
