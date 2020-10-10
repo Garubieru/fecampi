@@ -1,34 +1,21 @@
-# First of all, let me introduce myself. My name is Felipe Campinho. 👋
-
-My contacts: 
-<br/>
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipecampinho/">
-    <img alt="LinkedIn" width="22px" src="/assets/linkedin.svg" />
+<p align="center">
+  <a href="https://github.com/fecampi">
+    <img align="center" width="780"   src="assets/banner.gif" />
   </a>
-    LinkedIn
-<br/>
-  <a href="mailto:felipe.campinho@hotmail.com">
-    <img alt="Email" width="22px" src="/assets/email.png" /> 
-  </a>
-    E-mail
-<p>
-* I'm passionate about a lot of things: Gadgets, technology, codes and electronic music.
-
-* Minimalism We must find a simple way to live: Thinking to myself, developing and programming..
-
-* Higher education in computer systems by Universidade Federal Fluminense (UFF) and
-  Telecommunications technician with emphasis on developing interactive applications for Digital TV by Federal Center for Technological Education (CEFET-RJ)
-
-* Always helping companies and friends to deliver the best API to their customers.
-
-* Enthusiast of everything that can use Javascript with that hint of TypeScript and a lot of free software.
-
-* (growing and learning). Let's go!
 </p>
 
-<h3 align="center" >Stack</h3>
-<p align="center">
+First of all, let me introduce myself. My name is Felipe Campinho.
+
+- I'm passionate about a lot of things: Gadgets, technology, codes and electronic music.
+- Minimalism We must find a simple way to live: Thinking to myself, developing and programming..
+- Higher education in computer systems by Universidade Federal Fluminense (UFF) and
+ Telecommunications technician with emphasis on developing interactive applications for Digital TV by Federal Center for Technological Education (CEFET-RJ)
+- Always helping companies and friends to deliver the best API to their customers.
+- Enthusiast of everything that can use Javascript with that hint of TypeScript and a lot of free software.
+- growing and learning). Let's go!
+
+**Stack:**  
+<p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">
     <img alt="JavaScript" width="26px" src="/assets/stack/javascript.svg" />
   </a><a href="https://www.typescriptlang.org/docs/">
@@ -40,8 +27,8 @@ My contacts:
   </a>
 </p>
 
-<h3 align="center" >Support</h3>
-<p align="center">
+**Support:**  
+<p align="left">
    <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">
   <img alt="bootstrap" width="26px" src="/assets/support/bootstrap.svg" />
   </a><a href="https://www.w3schools.com/css/default.asp">
@@ -57,8 +44,11 @@ My contacts:
    </a>
 </p>
 
-<h3 align="center" >Used</h3>
-<p align="center">
+
+
+
+**Used:**  
+<p align="left">
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
   <img alt="c-sharp" width="26px" src="assets/used/c-sharp.svg" />
    </a><a href="https://docs.oracle.com/javase/8/docs/">
@@ -74,8 +64,10 @@ My contacts:
    </a>
 </p>
 
-<h3 align="center" >Tools</h3>
-<p align="center">
+
+**Tools:**  
+
+<p align="left">
    <a href="https://www.audacityteam.org/">
   <img alt="" width="26px" src="assets/tools/audacity.png" />
    </a><a href="https://www.blender.org/">
@@ -102,7 +94,55 @@ My contacts:
 
 
 
+<p align="center">
 
+  <a href="https://github.com/fecampi">
+    <img 
+         align="center" 
+         height="165"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecampi&layout=compact" 
+     />
+  </a>
+  <a href="https://github.com/fecampi">
+    <img 
+         align="center" 
+         height="165"
+         src="https://github-readme-stats.vercel.app/api?username=fecampi&show_icons=true&include_all_commits=true" alt="fecampi github stats" />
+  </a>
+
+</p>
+
+<p align="center">
+  contact me
+</p>
+
+<p align="center">
+
+  <a
+    href="mailto:felipe.campinho@hotmail.com" 
+    alt="Email"
+    target="blank"
+  >
+   <img alt="email" width="40px" src="assets/email.svg" />
+    
+  </a>
+  <a
+    href="https://web.whatsapp.com/send?phone=+5524988324282" 
+    alt="WhatsApp"
+    target="blank"
+  >
+  <img alt="whatsapp" width="40px" src="assets/whatsapp.svg" />
+  </a>
+
+   <a
+    href="https://www.linkedin.com/in/felipecampinho/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+   <img alt="whatsapp" width="40px" src="assets/in.svg" />
+  </a>
+  
+</p>
 
 
 
