@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/fecampi">
-    <img align="center" width="780"   src="assets/banner.gif" />
+    <img align="center"  src="assets/banner.gif" />
   </a>
 </p>
 
