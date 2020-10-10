@@ -125,6 +125,13 @@ First of all, let me introduce myself. My name is Felipe Campinho.
    <img alt="email" width="40px" src="assets/email.svg" />
     
   </a>
+    <a
+    href="https://web.whatsapp.com/send?phone=+5524988324282" 
+    alt="WhatsApp"
+    target="blank"
+  >
+  <img alt="whatsapp" width="40px" src="assets/whatsapp.svg" />
+  </a>
 
   
 </p>
