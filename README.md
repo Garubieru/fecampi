@@ -132,6 +132,14 @@ First of all, let me introduce myself. My name is Felipe Campinho.
   >
   <img alt="whatsapp" width="40px" src="assets/whatsapp.svg" />
   </a>
+   <a
+    href="https://www.linkedin.com/in/felipecampinho/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+   <img alt="whatsapp" width="40px" src="assets/in.svg" />
+  </a>
+  
 
   
 </p>
