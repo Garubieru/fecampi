@@ -114,7 +114,7 @@ First of all, let me introduce myself. My name is Felipe Campinho.
 
 <p align="center">
   <a href="https://github.com/fecampi">
-    <img align="center" width="200" src="assets/contact.gif" />
+    <img align="center" width="200" src="assets/contact_me2.png" />
   </a>
 </p>
 
