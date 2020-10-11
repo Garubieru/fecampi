@@ -124,7 +124,7 @@ First of all, let me introduce myself. My name is Felipe Campinho.
     alt="Email"
     target="blank"
   >
-   <img alt="email" width="40px" src="assets/email_red.svg" />
+   <img alt="email" width="48px" src="assets/email_red.svg" />
     
   </a>
     <a
@@ -132,14 +132,14 @@ First of all, let me introduce myself. My name is Felipe Campinho.
     alt="WhatsApp"
     target="blank"
   >
-  <img alt="whatsapp" width="40px" src="assets/in_blue.svg" />
+  <img alt="whatsapp" width="48px" src="assets/in_green.svg" />
   </a>
    <a
     href="https://www.linkedin.com/in/felipecampinho/" 
     alt="LinkedIn"
     target="blank"
   >
-   <img alt="whatsapp" width="40px" src="assets/in_green.svg" />
+   <img alt="whatsapp" width="48px" src="assets/in_blue.svg" />
   </a>
   
 
