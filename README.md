@@ -110,10 +110,12 @@ First of all, let me introduce myself. My name is Felipe Campinho.
          src="https://github-readme-stats.vercel.app/api?username=fecampi&show_icons=true&include_all_commits=true" alt="fecampi github stats" />
   </a>
 
-</p>
+
 
 <p align="center">
-  contact me
+  <a href="https://github.com/fecampi">
+    <img align="center" width="200" src="assets/contact.gif" />
+  </a>
 </p>
 
 <p align="center">
@@ -122,7 +124,7 @@ First of all, let me introduce myself. My name is Felipe Campinho.
     alt="Email"
     target="blank"
   >
-   <img alt="email" width="40px" src="assets/email.svg" />
+   <img alt="email" width="40px" src="assets/email_red.svg" />
     
   </a>
     <a
@@ -130,14 +132,14 @@ First of all, let me introduce myself. My name is Felipe Campinho.
     alt="WhatsApp"
     target="blank"
   >
-  <img alt="whatsapp" width="40px" src="assets/whatsapp.svg" />
+  <img alt="whatsapp" width="40px" src="assets/in_blue.svg" />
   </a>
    <a
     href="https://www.linkedin.com/in/felipecampinho/" 
     alt="LinkedIn"
     target="blank"
   >
-   <img alt="whatsapp" width="40px" src="assets/in.svg" />
+   <img alt="whatsapp" width="40px" src="assets/in_green.svg" />
   </a>
   
 
